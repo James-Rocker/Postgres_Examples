@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\James\PycharmProjects\Postgres Examples\venv"
+set "VIRTUAL_ENV=C:\Users\James\Documents\GitHub\Postgres_Examples\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"

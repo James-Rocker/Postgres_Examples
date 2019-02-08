@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\James\PycharmProjects\Postgres Examples\venv"
+VIRTUAL_ENV="C:\Users\James\Documents\GitHub\Postgres_Examples\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

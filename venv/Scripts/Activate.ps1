@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\James\PycharmProjects\Postgres Examples\venv"
+$env:VIRTUAL_ENV="C:\Users\James\Documents\GitHub\Postgres_Examples\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
